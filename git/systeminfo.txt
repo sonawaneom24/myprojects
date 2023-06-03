@@ -1,0 +1,6 @@
+Processor: processor namess
+System: Windows version
+Machine: machine
+ 
+ Hostname: laptop model
+Private IP Address: your ip
